@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Kudibooks [Kudibooks](https://kudibooks.com/)
 
-- 🌱 I’m currently learning **PHP, Laravel, Nodejs**
+- 🌱 I’m currently learning **PHP, Laravel, Nodejs, Golang**
 
 - 💬 Ask me about **vue, PHP, Laravel, Linux**
 
